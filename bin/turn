@@ -8,6 +8,7 @@ puts "Welcome to Tic Tac Toe!"
 display_board(board)
 
 turn(board)
+<<<<<<< HEAD
 turn(board)
 turn(board)
 turn(board)
@@ -16,3 +17,5 @@ turn(board)
 turn(board)
 turn(board)
 turn(board)
+=======
+>>>>>>> 78da3f33a32575b10d88d1705c789b59b0edcd45

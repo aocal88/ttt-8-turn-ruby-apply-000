@@ -7,6 +7,10 @@ def turn(board)
   if valid_move?(board, index)
     move(board, index, "X")
     display_board(board)
+<<<<<<< HEAD
+=======
+    turn(board)
+>>>>>>> 78da3f33a32575b10d88d1705c789b59b0edcd45
   else
     puts "Please enter a valid number!"
     turn(board)
